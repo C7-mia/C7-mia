@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @C7-mia
 - 👀 I’m interested in ... exploring opportunitiesbim frontend web development 
 - 🌱 I’m currently learning ... on mastering frontend technologies HTML,CSS, and JavaScript  React and Angular 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...projects related to frontend 
 - 📫 How to reach me ... akidirita4@gmail.com
 - 😄 Pronouns: ...he/ him 
 - ⚡ Fun fact: ... passionate about open source contribution 
